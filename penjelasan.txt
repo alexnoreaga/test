@@ -1,0 +1,3 @@
+git status
+Berfungsi untuk mengecek status file yang belum masuk pada staging area pada git
+    
